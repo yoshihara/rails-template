@@ -31,3 +31,5 @@ end
 
 remove_file "app/assets/stylesheets/application.css"
 add_file "app/assets/stylesheets/application.css.scss", '@import "bootstrap";'
+
+git :init
