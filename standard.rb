@@ -1,5 +1,6 @@
 gem "kaminari"
 gem "bootstrap-sass"
+gem "haml-rails"
 
 gem_group :test do
   gem "rspec-rails" , "~> 2.0"
